@@ -1,0 +1,12 @@
+{
+    "name": "jobayerccj/Skebby",
+    "description": "package for skebby sms gateway",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jobayerccj\\Skebby\\": "src/"
+        }
+    }
+}
