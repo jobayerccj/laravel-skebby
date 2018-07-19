@@ -1,6 +1,6 @@
 {
     "name": "jobayerccj/skebby",
-    "description": "package for skebby sms gateway",
+    "description": "laravel package for skebby sms gateway integration",
     "type": "library",
     "license": "MIT",
     "require": {},
