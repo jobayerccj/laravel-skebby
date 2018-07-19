@@ -2,11 +2,23 @@
     "name": "jobayerccj/skebby",
     "description": "laravel package for skebby sms gateway integration",
     "type": "library",
+	"authors": [
+        {
+            "name": "Md Jobayer Islam",
+            "email": "jobayercse@gmail.com"
+        }
+    ],
     "license": "MIT",
-    "require": {},
+    "require": {
+		"php": ">=7.0"
+	},
+	"require-dev": {
+        "ext-curl": "*"
+    },
     "autoload": {
         "psr-4": {
             "jobayerccj\\Skebby\\": "src/"
         }
-    }
+    },
+	"license": "MIT"
 }
